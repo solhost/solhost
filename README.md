@@ -1,31 +1,29 @@
 # Yo! I am solhost✌️:
-i make shit and slap it on discord 💀
+i make shit and put it on github.
 
 ## sum cool ass widgets i found lol
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=solhost&theme=tokyonight" alt="mystreak"/>
-Death to:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/330px-Google_2015_logo.svg.png" alt="if ts doesnt load wtf"/>
-<img src="https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png" alt="use chrome not firefox if ts doesnt load"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solhost&theme=tokyonight">
 
 ## My skills include:
 - Making random shit
 - Vibecoding
-- i can code in: PenguinMod, some ruby, bat, and despise JS but i know basic, like basic stuff like alert("What the fuck")
+- i can code in: python, some javascript, especially in the scratch extension sector, and shell scripting languages like batch and bash
 - sleeping
 
 ## what i also go by on the interwebs
 - DaRender
 - Liam
 
-## stuff i work on rn rn fr fr twin
-- Beeswax
-- Jit (trippin)
-- YAMK (YAMK ain't micro kernel)
-- Waterrune
+## cool stuff i work on
+- freePyPI
+- Klementine, the Silica distro
+
+## cool stuff im involved in
+- Silica
+- Forensic
 
 ## things i plan on maybe??
-- making a internet
-- namecheap ripoff for said internet
+- finally finishing kart
 ## more bout me
 - i am a he / him / his
-- i have it in my basement
+- i like pizza I guess 
