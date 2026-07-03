@@ -1,4 +1,7 @@
 # Yo, I am Solhost:
+
+*solhost's readme revision 2 - July 2nd 2026. aka the "Sixeth Sevenith Rivision"*
+
 I make the most shit software known to man.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=solhost&theme=tokyonight">
