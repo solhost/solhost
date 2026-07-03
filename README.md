@@ -32,5 +32,4 @@ I make the most shit software known to man.
 - finally finishing kart
 ## more bout me
 - i am a he / him / his
-- i like pizza I guess 
-- i am a canadian, deal with it
+- i like pizza I guess
