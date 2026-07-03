@@ -1,25 +1,28 @@
-# Yo! I am solhost✌️:
-i make shit and put it on github.
+# Yo, I am Solhost:
+I make the most shit software known to man.
 
-## sum cool ass widgets i found lol
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=solhost&theme=tokyonight">
 
-## My skills include:
-- Making random shit
-- Vibecoding
-- i can code in: python, some javascript, especially in the scratch extension sector, and shell scripting languages like batch and bash
-- sleeping
+*uh professional software dev i would say* - solhost
 
-## what i also go by on the interwebs
-- DaRender
-- Liam
+*"An idiot admires complexity, a genius admires simplicity."* - Terry A. Davis
+
+## My skills include:
+- coding
+- sleeping
+- eating
+- repeat
+
+## what i also go by
+- DaRender - *The OG name, no longer in use.*
+- Liam B. - *The formal name I use*
+- solhostpaws - *only when solhost is taken somehow*
 
 ## cool stuff i work on
 - freePyPI
-- Klementine, the Silica distro
-
+- Wucht - The Best Solara Distro
 ## cool stuff im involved in
-- Silica
+- Solara
 - Forensic
 
 ## things i plan on maybe??
@@ -27,3 +30,4 @@ i make shit and put it on github.
 ## more bout me
 - i am a he / him / his
 - i like pizza I guess 
+- i am a canadian, deal with it
