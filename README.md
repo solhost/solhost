@@ -4,7 +4,7 @@
 
 I make the most shit software known to man.
 
-<img src="meowl.png" alt="meowl">
+<img src="meowl.png" alt="meowl" width="200" height="300">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=solhost&theme=tokyonight">
 
