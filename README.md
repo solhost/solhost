@@ -1,6 +1,6 @@
 # Yo, I am Solhost:
 
-*solhost's readme revision 2 - July 2nd 2026. aka the "Sixeth Sevenith Rivision"*
+*solhost's readme revision 3 - July 10th 2026. aka the "Sixeth Sevenith Rivision v2 but i fix KaneCoded's Shit because he keeps rebranding"*
 
 I make the most shit software known to man.
 
@@ -23,9 +23,7 @@ I make the most shit software known to man.
 
 ## cool stuff i work on
 - freePyPI
-- Wucht - The Best Solara Distro
 ## cool stuff im involved in
-- Solara
 - Forensic
 
 ## things i plan on maybe??
