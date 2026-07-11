@@ -1,4 +1,4 @@
-# Yo, I am Solhost:
+# Yo, I'm solhost:
 
 *solhost's readme revision 3 - July 10th 2026. aka the "Sixeth Sevenith Rivision v2 but i fix KaneCoded's Shit because he keeps rebranding"*
 
