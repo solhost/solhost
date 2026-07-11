@@ -4,6 +4,8 @@
 
 I make the most shit software known to man.
 
+<img src="meowl.png" alt="meowl">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=solhost&theme=tokyonight">
 
 *uh professional software dev i would say* - solhost
