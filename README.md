@@ -1,6 +1,6 @@
 # Yo, I'm solhost:
 
-*solhost's readme revision 3 - July 10th 2026. aka the "Sixeth Sevenith Rivision v2 but i fix KaneCoded's Shit because he keeps rebranding"*
+*solhost's readme revision 3 - July 10th 2026. aka the "Sixeth Sevenith Rivision v3 but i finished kart"*
 
 I make the most shit software known to man.
 
@@ -21,7 +21,7 @@ I make the most shit software known to man.
 ## what i also go by
 - DaRender - *The OG name, no longer in use.*
 - Liam B. - *The formal name I use*
-- solhostpaws - *only when solhost is taken somehow*
+- solhostbruh - *only when solhost is taken somehow*
 
 ## cool stuff i work on
 - freePyPI
@@ -29,7 +29,7 @@ I make the most shit software known to man.
 - Forensic
 
 ## things i plan on maybe??
-- finally finishing kart
+- stop linux larping
 ## more bout me
 - i am a he / him / his
 - i like pizza I guess
