@@ -1,6 +1,6 @@
 # Yo, I'm solhost
 
-*solhost's readme revision 5 - August 25th 2026. aka the "Hog Riderith Revision Mark 3 with binder"*
+*solhost's readme revision 7 - October 9th 2026*
 
 I make the most shit software known to man.
 
@@ -25,6 +25,5 @@ I make the most shit software known to man.
 - just stuff i personally need, if i put it on the internet it might fix other peoples problems
 # langs
 - python
-- c++/cuda
 - lua
 - ruby
